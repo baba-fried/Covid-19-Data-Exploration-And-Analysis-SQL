@@ -20,8 +20,8 @@ This project performs an in-depth **exploratory data analysis (EDA)** on global 
 
 The project uses two tables from a COVID-19 dataset:
 
-* **CovidDeaths** – contains data on cases, deaths, population, location, and dates
-* **CovidVaccinations** – contains vaccination data by location and date
+* [**CovidDeaths**](Datasets/CovidDeaths.xlsx) – contains data on cases, deaths, population, location, and dates
+* [**CovidVaccinations**](Datasets/CovidVaccinations.xlsx) – contains vaccination data by location and date
 
 ---
 
