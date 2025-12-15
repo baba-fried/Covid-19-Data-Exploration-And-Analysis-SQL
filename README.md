@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Using SQL
+# COVID-19 Data Exploration And Analysis Using SQL
 
 ## Project Overview
 
