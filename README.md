@@ -23,8 +23,6 @@ The project uses two tables from a COVID-19 dataset:
 * **CovidDeaths** – contains data on cases, deaths, population, location, and dates
 * **CovidVaccinations** – contains vaccination data by location and date
 
-> Data is filtered to exclude aggregated rows (where continent is NULL) to ensure accurate country- and continent-level analysis.
-
 ---
 
 ## Tools & Technologies
