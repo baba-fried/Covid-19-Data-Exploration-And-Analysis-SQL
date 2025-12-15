@@ -22,7 +22,7 @@ The raw COVID-19 dataset was obtained from [Our World in Data](https://ourworldi
 * [**CovidDeaths**](Datasets/CovidDeaths.xlsx) – contains data on cases, deaths, population, location, and dates
 * [**CovidVaccinations**](Datasets/CovidVaccinations.xlsx) – contains vaccination data by location and date
 
-Containing only the fields necessary for exploratory data analysis, mortality assessment, and vaccination trend evaluation.
+contains only the fields necessary for exploratory data analysis, mortality assessment, and vaccination trend evaluation.
 
 ---
 
